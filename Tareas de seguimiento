@@ -1,0 +1,58 @@
+Desarrollo de Aplicación de Registro de Ventas para Comerciante
+
+Objetivos:
+Llevar un registro detallado de las ventas realizadas por el comerciante.
+Registrar los pagos recibidos de los clientes.
+Gestionar una lista de productos en venta, incluyendo su descripción y precio.
+Facilitar la administración y el seguimiento de las operaciones del negocio del comerciante.
+
+Alcance:
+Crear una aplicación web que permita al comerciante ingresar información sobre las ventas y pagos.
+Desarrollar una base de datos para almacenar los registros de ventas, pagos y la lista de productos en venta.
+Implementar una interfaz de usuario intuitiva para que el comerciante pueda agregar, editar y eliminar registros.
+Generar informes y resúmenes de ventas y pagos para facilitar la toma de decisiones del comerciante.
+
+Plazo:
+Fecha de Entrega: 07/09/2022 a las 22:00 (hora local del comerciante).
+
+Tareas de Seguimiento:
+Reunión Inicial (07/03/2022):
+Definir los requisitos detallados de la aplicación con el comerciante.
+Establecer el diseño de la interfaz de usuario y la estructura de la base de datos.
+Acordar un cronograma de desarrollo.
+
+Desarrollo de la Base de Datos (07/05/2022):
+Diseñar y crear la estructura de la base de datos para almacenar ventas, pagos y productos.
+Configurar la seguridad de la base de datos.
+
+Desarrollo de la Interfaz de Usuario (07/12/2022):
+Diseñar y desarrollar la interfaz de usuario de la aplicación web.
+Implementar la funcionalidad de registro de ventas y pagos.
+
+Desarrollo de la Lista de Productos (07/19/2022):
+Agregar la funcionalidad para gestionar la lista de productos en venta.
+Permitir la adición, edición y eliminación de productos.
+
+Generación de Informes (07/26/2022):
+Implementar la generación de informes y resúmenes de ventas y pagos.
+Asegurarse de que el comerciante pueda acceder y exportar estos informes.
+
+Pruebas y Depuración (08/23/2022):
+Realizar pruebas exhaustivas para identificar y corregir errores.
+Garantizar que la aplicación sea segura y estable.
+
+Entrenamiento del Comerciante (08/30/2022):
+Capacitar al comerciante en el uso de la aplicación.
+Aclarar cualquier duda o pregunta.
+
+Entrega Final (07/09/2022 a las 22:00):
+Entregar la aplicación completamente funcional al comerciante.
+Asegurarse de que esté listo para su uso y cumplir con los objetivos y alcance definidos.
+
+Evaluación y Ajustes (07/10/2022 - 07/16/2022):
+Recopilar comentarios del comerciante y realizar ajustes según sea necesario.
+Asegurarse de que la aplicación cumpla con las expectativas del comerciante.
+
+Cierre del Proyecto (07/17/2022):
+Documentar y archivar todos los activos y documentación relacionados con el proyecto.
+Finalizar cualquier tarea pendiente y confirmar que el comerciante esté satisfecho.
