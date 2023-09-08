@@ -21,38 +21,38 @@ Definir los requisitos detallados de la aplicación con el comerciante.
 Establecer el diseño de la interfaz de usuario y la estructura de la base de datos.
 Acordar un cronograma de desarrollo.
 
-Desarrollo de la Base de Datos (07/05/2022):
+Desarrollo de la Base de Datos (07/05/2022): Ing. Centeno
 Diseñar y crear la estructura de la base de datos para almacenar ventas, pagos y productos.
 Configurar la seguridad de la base de datos.
 
-Desarrollo de la Interfaz de Usuario (07/12/2022):
+Desarrollo de la Interfaz de Usuario (07/12/2022): Ing. Toral
 Diseñar y desarrollar la interfaz de usuario de la aplicación web.
 Implementar la funcionalidad de registro de ventas y pagos.
 
-Desarrollo de la Lista de Productos (07/19/2022):
+Desarrollo de la Lista de Productos (07/19/2022): Ing. Toral
 Agregar la funcionalidad para gestionar la lista de productos en venta.
 Permitir la adición, edición y eliminación de productos.
 
-Generación de Informes (07/26/2022):
+Generación de Informes (07/26/2022): Ing. Toral
 Implementar la generación de informes y resúmenes de ventas y pagos.
 Asegurarse de que el comerciante pueda acceder y exportar estos informes.
 
-Pruebas y Depuración (08/23/2022):
+Pruebas y Depuración (08/23/2022): Ing. Rodríguez
 Realizar pruebas exhaustivas para identificar y corregir errores.
 Garantizar que la aplicación sea segura y estable.
 
-Entrenamiento del Comerciante (08/30/2022):
+Entrenamiento del Comerciante (08/30/2022): Ing. Farias
 Capacitar al comerciante en el uso de la aplicación.
 Aclarar cualquier duda o pregunta.
 
-Entrega Final (07/09/2022 a las 22:00):
+Entrega Final (07/09/2022 a las 22:00): Ing. Toral
 Entregar la aplicación completamente funcional al comerciante.
 Asegurarse de que esté listo para su uso y cumplir con los objetivos y alcance definidos.
 
-Evaluación y Ajustes (07/09/2022 - 07/16/2022):
+Evaluación y Ajustes (07/09/2022 - 07/16/2022): Ing. Toral
 Recopilar comentarios del comerciante y realizar ajustes según sea necesario.
 Asegurarse de que la aplicación cumpla con las expectativas del comerciante.
 
-Cierre del Proyecto (07/09/2022):
+Cierre del Proyecto (07/09/2022): Ing. Rodríguez
 Documentar y archivar todos los activos y documentación relacionados con el proyecto.
 Finalizar cualquier tarea pendiente y confirmar que el comerciante esté satisfecho.
