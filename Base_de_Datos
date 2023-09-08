@@ -1,0 +1,29 @@
+import sqlite3
+
+# Conectar a la base de datos
+conn = sqlite3.connect('registro_ventas.db')
+
+# Crear un cursor para ejecutar comandos SQL
+cursor = conn.cursor()
+
+# Crear la tabla de Productos
+cursor.execute('''
+CREATE TABLE IF NOT EXISTS Productos (
+    ID INTEGER PRIMARY KEY AUTOINCREMENT,
+    Nombre TEXT NOT NULL,
+    Precio REAL NOT NULL,
+    Descripcion TEXT
+)
+''')
+
+# Crear la tabla de Ventas
+cursor.execute('''
+CREATE TABLE IF NOT EXISTS Ventas (
+    ID INTEGER PRIMARY KEY AUTOINCREMENT,
+    Fecha DATE NOT NULL,
+    ProductoID INTEGER,
+    Cantidad INTEGER NOT NULL,
+    Total REAL NOT NULL,
+    FOREIGN KEY (ProductoID) REFERENCES Productos (ID)
+)
+''')
